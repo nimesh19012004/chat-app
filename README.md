@@ -1,6 +1,6 @@
 # Project Title
 
-Welcome to the Chat-App README! This project is a real-time chat application designed to provide seamless communication between users. It supports private messaging, group chats, media sharing, and more, with a modern tech stack ensuring a smooth and responsive experience.
+Welcome to the Chat-App. This project is a real-time chat application designed to provide seamless communication between users. It supports private messaging, media sharing, and more, with a modern tech stack ensuring a smooth and responsive experience.
 
 ## Table of Contents
 
